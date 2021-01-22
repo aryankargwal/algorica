@@ -2,8 +2,8 @@
 An attempt to consolidate all the ML algorithms (atleast what I can think of) with their code and the logic behind them just for learning sake. 
 ## Functions->
 ### Activation Functions
-- [ ] Sigmoid
-- [ ] TanH
+- [ x ] Sigmoid
+- [ x ] TanH
 - [ ] ReLU
 - [ ] Leaky ReLU
 - [ ] Parametric ReLU
