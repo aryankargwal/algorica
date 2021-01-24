@@ -2,12 +2,12 @@
 An attempt to consolidate all the ML algorithms (atleast what I can think of) with their code and the logic behind them just for learning sake. 
 ## Functions->
 ### Activation Functions
-- [ x ] Sigmoid
-- [ x ] TanH
-- [ ] ReLU
-- [ ] Leaky ReLU
-- [ ] Parametric ReLU
-- [ ] Softmax
+- [x] Sigmoid
+- [x] TanH
+- [x] ReLU
+- [x] Leaky ReLU
+- [x] Parametric ReLU
+- [x] Softmax
 - [ ] Swish
 ### Regression Algorithms
 - [ ] Linear Regression
