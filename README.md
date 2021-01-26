@@ -2,13 +2,13 @@
 An attempt to consolidate all the ML algorithms (atleast what I can think of) with their code and the logic behind them just for learning sake. 
 ## Functions->
 ### Activation Functions
-- [x] Sigmoid
-- [x] TanH
-- [x] ReLU
-- [x] Leaky ReLU
-- [x] Parametric ReLU
-- [x] Softmax
-- [ ] Swish
+- [x] [Sigmoid](https://github.com/aryankargwal/algorica/tree/main/Activation%20Functions/Sigmoid)
+- [x] [TanH](https://github.com/aryankargwal/algorica/tree/main/Activation%20Functions/TanH)
+- [x] [ReLU](https://github.com/aryankargwal/algorica/tree/main/Activation%20Functions/ReLU)
+- [x] [Leaky ReLU](https://github.com/aryankargwal/algorica/tree/main/Activation%20Functions/Leaky%20ReLU)
+- [x] [Parametric ReLU](https://github.com/aryankargwal/algorica/tree/main/Activation%20Functions/Parametric%20ReLU)
+- [x] [Softmax](https://github.com/aryankargwal/algorica/tree/main/Activation%20Functions/Softmax)
+- [x] [Swish](https://github.com/aryankargwal/algorica/tree/main/Activation%20Functions/Swish)
 ### Regression Algorithms
 - [ ] Linear Regression
 - [ ] Logistic Regression
