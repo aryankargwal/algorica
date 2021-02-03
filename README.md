@@ -36,3 +36,6 @@ An attempt to consolidate all the ML algorithms (atleast what I can think of) wi
 - [ ] Back-Propagation
 - [ ] Stochastic Gradient Descent
 - [ ] Hopfield Network
+
+## Resources
+ML India Algorithm Cheatsheet- [Click here](https://media-exp1.licdn.com/dms/document/C561FAQED0tgwqL7acA/feedshare-document-pdf-analyzed/0/1612328013218?e=1612422000&v=beta&t=EtR6r_oS4hmlwNMxipnKD95zogC8qa5k7uPnqXjOG4Y)
