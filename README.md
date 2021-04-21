@@ -10,8 +10,8 @@ An attempt to consolidate all the ML algorithms (atleast what I can think of) wi
 - [x] [Softmax](https://github.com/aryankargwal/algorica/tree/main/Activation%20Functions/Softmax)
 - [x] [Swish](https://github.com/aryankargwal/algorica/tree/main/Activation%20Functions/Swish)
 ### Regression Algorithms
-- [x] Linear Regression
-- [ ] Logistic Regression
+- [x] [Linear Regression](https://github.com/aryankargwal/algorica/tree/main/Regression%20Algorithms/Linear%20Regression)
+- [x] [Logistic Regression](https://github.com/aryankargwal/algorica/tree/main/Regression%20Algorithms/Logistic%20Regression)
 - [ ] Stepwise Regression
 ### Instance Based Algorithms
 - [ ] k-Nearest Neighbor 
