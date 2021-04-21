@@ -11,8 +11,8 @@ An attempt to consolidate all the ML algorithms (atleast what I can think of) wi
 - [x] [Swish](https://github.com/aryankargwal/algorica/tree/main/Activation%20Functions/Swish)
 ### Regression Algorithms
 - [x] Linear Regression
-- [x] Logistic Regression
-- [x] Stepwise Regression
+- [ ] Logistic Regression
+- [ ] Stepwise Regression
 ### Instance Based Algorithms
 - [ ] k-Nearest Neighbor 
 - [ ] Locally Weighte Learning
